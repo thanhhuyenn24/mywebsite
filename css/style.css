@@ -21,7 +21,7 @@
     /* light theme */
     --background-light: hsl(0, 0%, 100%);
     --on-background-light: hsl(264, 8%, 12%);
-    --surface-light: hsl(60, 100%, 98%);
+    --surface-light: hsl(0, 0%, 100%);
     --on-surface-light: hsl(264, 8%, 12%);
     --on-surface-variant-light: hsl(264, 7%, 29%);
     --surface-container-low-light: hsl(60, 43%, 96%);
