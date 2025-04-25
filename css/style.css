@@ -19,8 +19,8 @@
 * COLORS
 */
     /* light theme */
-    --background-light: hsl(0, 0%, 100%);
-    --on-background-light: hsl(264, 8%, 12%);
+    --background-light: hsl(293, 100%, 98%);
+    --on-background-light: hsl(0, 0%, 100%);
     --surface-light: hsl(293, 100%, 98%);
     --on-surface-light: hsl(264, 8%, 12%);
     --on-surface-variant-light: hsl(60, 33%, 90%);
